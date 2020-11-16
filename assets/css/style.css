@@ -9,7 +9,7 @@ body {
 /*-------------------------------Navigation------------------------------*/
 
 .navbar-brand img {
-    height: 3rem;
+    height: 2.7rem;
 }
 
 .navbar {
@@ -25,19 +25,18 @@ body {
 }
 .nav-link.active, 
 .nav-link:hover {
-    color: 4bc05a!important;
+    color: #9ecaa4!important;
 }
 
 
 /*----------------------------- Background Image--------------------*/
 
 
-.banner-image {
-    height: 400px;
-    width: 100%;
+.image-fluid {
+    height: 18rem;
+    max-width: 100%;
     overflow: hidden;
     
-
 }
 
 
@@ -51,29 +50,46 @@ body {
 }
 
 
+/*-----------------------------Three Columns-------------------------------*/
+
 
 
 /*------------------------------------Footer-------------------------------*/
 
-
-footer img {
-    height: 3rem;
+footer {
+    background-color: #808080;    
 }
-.footer {
-    font-size: 1.15rem;
-    font-weight: 500;
-    letter-spacing: .1rem;
+footer a,
+.socket a {
+    color: white;
+    text-decoration: none;
 }
-.copy {
-    padding: 0.5rem;
-    color: black;
-
-.social {
-    color: #555555;
-
+ul.social {
+    list-style-type: none;
+    display: flex; 
+    max-width: 16rem;   
+    margin: 0 auto;
+    padding: 0;
+}
+ul.social li {
+    margin: 0 auto;
+}
+ul.social li a i {
+    font-size: 2rem;
+    color: white;
+    transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+.social li a i:hover {
+    color: #a8c7af;
 }
 
 
+/*------------------------------------Socket-------------------------------*/
 
-
-
+.socket {
+    background-color: #606060;
+    border-top: 1px solid #9ecaa4;
+}
