@@ -11,14 +11,15 @@ body {
 
 /*-------------------------------Navigation------------------------------*/
 
-.navbar-brand img {
-    height: 2.7rem;
-}
 
 .navbar {
     font-size: 1.15rem;
     font-weight: 500;
     letter-spacing: .1rem;
+    margin-bottom: 2rem;
+}
+.navbar-brand img {
+    height: 2.7rem;
 }
 .nav-item {
     padding: 0.5rem;
@@ -30,6 +31,12 @@ body {
 .nav-link:hover {
     color: #9ecaa4!important;
 }
+
+
+
+
+
+
 
 
 /*----------------------------- Background Image--------------------*/
@@ -56,6 +63,19 @@ body {
     margin-top: 1.4rem;
 }
 
+
+/*-------------------------------Fa-facts--------------------------------*/
+
+
+.bg-custom {
+    color: white;
+    background-color: #4ab169;
+}
+
+
+
+
+
 /*--------------------------------Callout----------------------------------*/
 
 .padding {
@@ -76,16 +96,20 @@ body {
 
 
 
+/*-------------------------------Fa-facts---------------------------------*/
 
 
-
+.fa-drumstick-bite, .fa-pound-sign, .fa-shopping-basket {
+    color: white;
+    font-size: 54px;
+    margin: 1rem;
+}
 
 
 
 
 
 /*-----------------------------Three Columns-------------------------------*/
-
 
 
 /*------------------------------------Footer-------------------------------*/
@@ -132,3 +156,9 @@ ul.social li a i {
 .socket p, a:hover {
     color: #a8c7af;
 }
+
+
+
+/*----------------------------------try-----------------------*/
+
+
