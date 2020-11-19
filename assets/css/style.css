@@ -41,14 +41,15 @@ body {
 
 /*----------------------------- Background Image--------------------*/
 
+.main-banner-image {
+    height: 600px;
+}
 
 .image-fluid {
     height: auto;
     max-width: 100%;
-    overflow: hidden;
-    
+    overflow: hidden;    
 }
-
 
 
 
@@ -64,15 +65,31 @@ body {
 }
 
 
-/*-------------------------------Fa-facts--------------------------------*/
+
+/*-------------------------------Contact form--------------------------------*/
 
 
-.bg-custom {
-    color: white;
-    background-color: #4ab169;
+.main-section {
+    margin: 0 auto;
+    margin-top: 9rem;
+    margin-bottom: 6rem;
+    padding: 0;
 }
+.modal-content {
+    background-color: #9ecaa4;
+    opacity: 0.8;
+    padding: 0 1rem;
 
-
+}
+.form-group {
+    margin-bottom: 1.5rem;
+}
+.contact-background {   
+    background: url(../../assets/images/contact.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: auto;
+    min-width: 100%;      
+}
 
 
 
@@ -105,11 +122,29 @@ body {
     margin: 1rem;
 }
 
-
+.bg-custom {
+    color: white;
+    background-color: #4ab169;
+}
 
 
 
 /*-----------------------------Three Columns-------------------------------*/
+
+
+
+
+
+/*-----------------------------------Contact Form-------------------------*/
+
+.contact-heading {
+
+}
+
+
+
+
+
 
 
 /*------------------------------------Footer-------------------------------*/
