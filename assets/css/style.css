@@ -32,7 +32,9 @@ body {
     color: #9ecaa4!important;
 }
 
-
+.nav-toggle-read {
+    color: #009900!important;
+}
 
 
 
@@ -41,16 +43,16 @@ body {
 
 /*----------------------------- Background Image--------------------*/
 
-.main-banner-image {
-    height: 600px;
-}
 
-.image-fluid {
+
+.img-fluid {
     height: auto;
-    max-width: 100%;
+    width: 100%;
     overflow: hidden;    
 }
-
+.hero-banner {
+    max-height: 38rem!important;
+}
 
 
 /*---------------------------------Jumbotron-----------------------------*/
@@ -77,6 +79,9 @@ body {
     height: 400px;
     color: white;
 }
+.btn-outline-secondary {
+    margin: auto;
+    text-align: center;
 }
 
 /*-------------------------------Contact form--------------------------------*/
@@ -89,13 +94,13 @@ body {
     padding: 0;
 }
 .modal-content {
-    background-color: #a1e2aa;
-    opacity: 0.85;
+    
+    
     padding: 0 1rem;
 
 }
 .form-group {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 .contact-background {   
     background: url(../../assets/images/contact.jpg) no-repeat center center fixed;
@@ -131,7 +136,7 @@ body {
 
 .fa-drumstick-bite, .fa-pound-sign, .fa-shopping-basket, .fa-burn, .fa-utensils {
     color: white;
-    font-size: 54px;
+    font-size: 3.3rem;
     margin: 1rem;
 }
 
