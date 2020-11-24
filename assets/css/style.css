@@ -37,23 +37,14 @@ body {
 }
 
 
-
-
-
-
 /*----------------------------- Background Image--------------------*/
 
-
-
 .img-fluid {
-    height: auto;
+    height: 33rem;
     width: 100%;
-    overflow: hidden;    
+    overflow: hidden; 
+    object-fit: cover;
 }
-.hero-banner {
-    max-height: 38rem!important;
-}
-
 
 /*---------------------------------Jumbotron-----------------------------*/
 
@@ -72,13 +63,15 @@ body {
     min-width: 100%;
     height: auto;
 }
-.jumbotron-leftovers {
-    background: url(../../assets/images/leftovers.jpg) no-repeat center center;
+.jumbotron-leftovers {    
+    background: url(../../assets/images/leftovers3.jpg) no-repeat center center;    
     background-size: cover;
+    overflow: hidden;
+    color: white;
     min-width: 100%;
     height: 400px;
-    color: white;
-}
+}      
+
 .btn-outline-secondary {
     margin: auto;
     text-align: center;
@@ -93,11 +86,8 @@ body {
     margin-bottom: 8rem;
     padding: 0;
 }
-.modal-content {
-    
-    
+.modal-content {    
     padding: 0 1rem;
-
 }
 .form-group {
     margin-bottom: 1rem;
@@ -128,7 +118,6 @@ body {
     margin-top: .3rem;
     margin-bottom: 1rem;
 }
-
 
 
 /*-------------------------------Fa-facts---------------------------------*/
@@ -207,7 +196,6 @@ ul.social li a i {
 .socket p, a:hover {
     color: #a8c7af;
 }
-
 
 
 
