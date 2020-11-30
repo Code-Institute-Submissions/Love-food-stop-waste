@@ -4,7 +4,7 @@
 
 ## About 
 ---
-<p>This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and keep the valuable resources used in food production and distribution from going to waste.</p>
+This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and keep the valuable resources used in food production and distribution from going to waste.
 
 ## UX
 ---
@@ -12,7 +12,7 @@
 * **Environmentally conscious citizens**
     * I want to be able to better understand the way the Earth's resources are currently being used
     * I want to get a better understanding of the problem in order to take action to fight it.
-    I want to help develop a sustainable food system
+    * I want to help develop a sustainable food system
 
 * **Concerned consumers**
     * I want to reduce food waste in my household
@@ -24,11 +24,6 @@
     * I want some creative meal or snack recipe ideas 
     * I want to educate my children about climate change, greenhouse gases and food waste
 
-* **Schools**
-    * I want to access the website to help me develop smarter lunchroom strategies
-    * I want to raise students' awareness of the problem by educating them
-    * I want to use recipe ideas from the website to create cooking demos and classes
-
 
 ## Features
 ----
@@ -36,11 +31,10 @@
 
 #### Features used across all pages
 * **Header**
-    * Header - navigation bar has been built using Bootstrap "fixed-top" class to allow easy navigation for users throughout the website.
-    * It is positioned on top of the page and remains visible on all screen size devices.
+    * Header - navigation bar has been built using Bootstrap "fixed-top" class to allow easy navigation for users throughout the website. It is positioned on top of the page and remains visible on all screen size devices.
     * Navigation bar includes a brand logo and links to the four pages of the website: Home, Plan and Store, Love your Leftovers and Contact Us.
     * Navigation links are collapsed in small screen sizes into a hamburger menu. 
-    * Brand logo serves as a Home page link, as well as the Home page itself. 
+    * Brand logo serves as a Home page link, in addition to the Home link in the navbar. It is particularly convinient for users accessing the website on smaller screen devices to get back to the Home page without having to use the hamburger menu.
     * All navigation links change color to green on hover and the current page's link stays "active", so the users can easily identify the page they are on.
 
 * **Footer**
@@ -76,7 +70,7 @@
 
 * To add a new page "Food Share" with a map and addresses to show the local community food bank locations if users wish to donate food items, as well as using the food bank's services. 
 This will broaden the user pool and strenthen the website's role in the community.
-* To expand the existing content on all pages and add more new recipes.
+* To expand the existing content on all pages and add new recipes.
 
 
 ## Technologies Used
@@ -89,15 +83,46 @@ ___
     * *Bootstrap v4.2.1* - used for faster and easier web development. Bootstrap's components, such as, navbar, jumbotron, buttons, modal, cards have been used to create a resposive website.
     * *Font Awesome* - Font Awesome icons have been added to "Food Facts" and Footer sections
     * *Google Fonts* - "Monserrat" font has been imported to style the whole website.
-    * *jQuery* - 
-    * *Popper.js*
+    * *jQuery* and *Popper.js* plugins - included to be able to use some of the Bootstrap components, such as, navbars, buttons, modals and other clickable components.
     * *Git* - used for version control and tracking changes.
     * *Gitpod* - used as a development environment and allowed me to add, commit and push files to GitHub.
-    * *GitHub* - used as a hosting platform for version control and collaboration.
+    * *GitHub* - used as a hosting platform for version control and future collaborations.
 
 ## Testing
+___
+### Functionality Testing
+    * When
+
+
+
+
+
+### Usability Testing
+### Compatibility Testing
+### Perfomance Testing
+
+### Testing User Stories
+
+
+
+## Deployment
+___
+
+
+## Credits
 ___
 
 
 
+### Content
 
+### Media
+The photos used in this website were obtained from [Unsplash](www.unsplash) and [Pexels](www.pexels.com) and are free to download, modify and use without 
+permission from or attributing the photographer or Unsplash.
+Full list of images used in creating this website:
+* cathryn-lavery-fMD_Cru6OTk-unsplash
+
+
+
+
+### Acknowledgements

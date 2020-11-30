@@ -7,11 +7,7 @@ body {
 }
 
 
-
-
 /*-------------------------------Navigation------------------------------*/
-
-
 .navbar {
     font-size: 1.15rem;
     font-weight: 500;
@@ -24,7 +20,7 @@ body {
 .nav-item {
     padding: 0.5rem;
 }
-.nav-link: {
+.nav-link {
     color: #5b5555!important;
 }
 .nav-link.active, 
@@ -40,7 +36,8 @@ body {
 /*----------------------------- Background Image--------------------*/
 
 .img-fluid {
-    height: 33rem;
+    background: no-repeat center center;
+    height: 31rem;
     width: 100%;
     overflow: hidden; 
     object-fit: cover;
@@ -60,11 +57,12 @@ body {
 .bg-plan {
     background: url(../../assets/images/citrus.jpg) no-repeat center center;
     background-size: cover;
+    overflow: hidden;
     min-width: 100%;
     height: auto;
 }
 .jumbotron-leftovers {    
-    background: url(../../assets/images/leftovers3.jpg) no-repeat center center;    
+    background: url(../../assets/images/leftovers.jpg) no-repeat center center;    
     background-size: cover;
     overflow: hidden;
     color: white;
@@ -122,7 +120,6 @@ body {
 
 /*-------------------------------Food-Facts---------------------------------*/
 
-
 .fa-drumstick-bite, .fa-pound-sign, .fa-shopping-basket, .fa-burn, .fa-utensils {
     color: white;
     font-size: 3.3rem;
@@ -133,18 +130,6 @@ body {
     color: white;
     background-color: #4ab169;
 }
-
-
-
-/*-----------------------------Three Columns-------------------------------*/
-
-
-
-
-
-/*-----------------------------------Contact Form-------------------------*/
-
-
 
 /*------------------------------------Footer-------------------------------*/
 
@@ -194,14 +179,15 @@ ul.social li a i {
 
 /*----------------------------------Media Queries----------------------------*/
 
-@ media (max-width: 992px){
+@media (max-width: 992px){
 
 }
 
-@ media (max-width: 768px){
+@media (max-width: 768px){
 
 }
 
-@ media (max-width: 576px){
-
+@media (max-width: 576px){
+.img-fluid {
+    height: 20rem;
 }
