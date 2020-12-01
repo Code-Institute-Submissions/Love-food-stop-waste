@@ -4,25 +4,28 @@
 
 ## About 
 ---
-This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and keep the valuable resources used in food production and distribution from going to waste.
+This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and 
+keep the valuable resources used in food production and distribution from going to waste.
 
 ## UX
 ---
 ### This website will appeal to:
 * **Environmentally conscious citizens**
     * I want to be able to better understand the way the Earth's resources are currently being used
-    * I want to get a better understanding of the problem in order to take action to fight it.
+    * I want to get a better understanding of the food waste problem in order to take action to fight it.
+    * I want to 
     * I want to help develop a sustainable food system
 
 * **Concerned consumers**
     * I want to reduce food waste in my household
-    * I want to save money
-    * I want learn new easy tips and ways of being kinder to the environment
+    * I want to save money from buying less food
+    * I want learn new easy tips and ways of being kinder to the environment and help conserve energy and resources
 
 * **Families with children**
     * I want to learn ways of involving kids in reducing food waste at home 
     * I want some creative meal or snack recipe ideas 
     * I want to educate my children about climate change, greenhouse gases and food waste
+    * I want to support my community by donating food
 
 
 ## Features
@@ -111,16 +114,25 @@ ___
 
 ## Credits
 ___
-
-
-
 ### Content
+* **Home**
+    * Content in Home page has been taken from [Love Food Hate Waste](https://lovefoodhatewaste.com/) and [The Waste and Resources Action Programme](https://www.wrap.org.uk/content/we-wont-fix-climate-change-if-we-dont-stop-wasting-food).
+    * Content in Food Facts section of the page has been taken from [Friends of the Earth](https://friendsoftheearth.uk/food-waste) and modified to suit the needs of my website.
+* **Plan and Store**
+    * Content for this page has been taken from [Food Standard Agency](https://www.food.gov.uk/food-safety) and [Love Food Hate Waste](https://www.lovefoodhatewaste.com/why-save-food)
+
+* **Love Your Leftovers**
+    * Content for this page has been taken from [Stop Food Waste](https://stopfoodwaste.ie/resource/leftovers) and also inspired by [Friends of the Earth](https://friendsoftheearth.uk/food-waste) website.
+    * Recipes:
+        * 5-a-day tagine - [BBC Good Food](https://www.bbcgoodfood.com/recipes/5-day-tagine)
+        * 5 ways to use leftover bread - [Love Food Hate Waste](https://www.lovefoodhatewaste.com/article/5-ways-use-leftover-bread)
+        * Leftover chicken enchiladas also from the website above and can be found [here](https://www.lovefoodhatewaste.com/recipe/leftover-chicken-enchiladas)
 
 ### Media
-The photos used in this website were obtained from [Unsplash](www.unsplash) and [Pexels](www.pexels.com) and are free to download, modify and use without 
+The images used in this website were obtained from [Unsplash](www.unsplash) and [Pexels](www.pexels.com) and are free to download, modify and use without 
 permission from or attributing the photographer or Unsplash.
+
 Full list of images used in creating this website:
-* cathryn-lavery-fMD_Cru6OTk-unsplash
 
 
 
