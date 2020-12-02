@@ -7,6 +7,10 @@
 This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and 
 keep the valuable resources used in food production and distribution from going to waste.
 
+## Demo
+
+A live demo can be found [here]()
+
 ## UX
 ---
 ### This website will appeal to:
@@ -23,6 +27,14 @@ keep the valuable resources used in food production and distribution from going 
     * I want to educate my family about climate change, greenhouse gases and food waste
     * I want to support my community by donating food
 
+
+### Wireframes 
+* [Home Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/home.png)
+* [Plan Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/plan.png)
+* [Leftovers Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/leftovers.png)
+* [Contact Us Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/contact.png)
+* [Tablet View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/tablet-view.png)
+* [Mobile View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/mobile-view.png)
 
 ## Features
 ----

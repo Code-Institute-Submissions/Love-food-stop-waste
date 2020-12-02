@@ -33,11 +33,12 @@ body {
 }
 
 
-/*----------------------------- Background Image--------------------*/
+/*----------------------------- Background Image-------------------------*/
+
 
 .img-fluid {
     background: no-repeat center center;
-    height: 31rem;
+    height: 28rem;
     width: 100%;
     overflow: hidden; 
     object-fit: cover;
