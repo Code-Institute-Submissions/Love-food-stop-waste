@@ -29,12 +29,12 @@ A live demo can be found [here]()
 
 
 ### Wireframes 
-* [Home Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/home.png)
-* [Plan Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/plan.png)
-* [Leftovers Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/leftovers.png)
-* [Contact Us Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/contact.png)
-* [Tablet View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/tablet-view.png)
-* [Mobile View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/wireframes/mobile-view.png)
+* [Home Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/home.png)
+* [Plan Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/plan.png)
+* [Leftovers Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/leftovers.png)
+* [Contact Us Page](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/contact.png)
+* [Tablet View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/tablet-view.png)
+* [Mobile View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/mobile-view.png)
 
 ## Features
 ----
