@@ -86,7 +86,7 @@ A live demo can be found [here]()
 
 ### Features Left to Implement
 
-* To make the website more child-friendly with colourful images, fun activities that help to stop food waste and fight climate change and lots of creative recipe ideas for children. 
+* To make the website more child-friendly through adding colourful images, fun activities that help to stop food waste and fight climate change and lots of creative recipe ideas for children. 
 * To add a new page "Food Share" with a map and addresses to show the local community food bank locations if users wish to donate food items, 
 as well as using the food bank's services. This will broaden the user pool and strenthen the website's role in the community.
 
@@ -109,8 +109,11 @@ ___
 
 ## Testing
 ___
+
+The 
+
 ### Testing User Stories
-* **Environmentally conscious citizens' goals**
+* **Environmentally conscious citizens' goals** has achieved the intended outcome 
 
 
 
@@ -133,7 +136,7 @@ ___
 ### Content
 * **Home**
     * Home page content has been taken from [Love Food Hate Waste](https://lovefoodhatewaste.com/) and [The Waste and Resources Action Programme](https://www.wrap.org.uk/content/we-wont-fix-climate-change-if-we-dont-stop-wasting-food).
-    * Food Facts section content of the page has been taken from [Friends of the Earth](https://friendsoftheearth.uk/food-waste) and modified to suit the needs of my website.
+    * Food Facts section content of the page has been taken from [Friends of the Earth](https://friendsoftheearth.uk/food-waste) and modified to suit the needs of the website.
 * **Plan and Store**
     * Content for this page has been taken from [Food Standard Agency](https://www.food.gov.uk/food-safety) and [Love Food Hate Waste](https://www.lovefoodhatewaste.com/why-save-food)
 
@@ -163,8 +166,9 @@ The images used in this website were obtained from free stock images websites [U
 * Contact page background image [Photo by Ella Olsson from Pexels](https://www.pexels.com/photo/photo-of-vegetable-salad-in-bowls-1640770/)
 
 ### Acknowledgements
-* Navigation Bar, Footer and Socket for this website were designed through following these video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s). 
+* Navigation Bar, Footer and Socket for this website were designed through following these video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
+and also using some tips from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. 
 Some modifications were made to fit the purpose of the website.
 * This tutorial by the same author has inspired sections with cards and horizontal rule and media queries [here](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s).  
 * The CSS code snippet `object-fit: cover;` for Home page banner image was kindly provided by my mentor Excellence Ilesanmi.
-* CI README Template and Sample have been helpful in writing README.md file. 
+* CI README Template and Sample have been helpful in writing the README.md file. 

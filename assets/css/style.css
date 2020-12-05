@@ -2,6 +2,7 @@
 
 body {
     overflow-x: hidden;
+    overflow-y: auto;
     font-family: 'Monserrat', sans-serif;
     color: #414346;
 }
@@ -189,6 +190,26 @@ ul.social li a i {
 }
 
 @media (max-width: 576px){
+
+.navbar {
+    font-size: 1rem;
+    font-weight: 400;
+    letter-spacing: .1rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+.navbar-brand img {
+    height: 2.3rem;
+}
+.nav-item {
+    padding: 0.3rem;
+}
 .img-fluid {
     height: 20rem;
+}
+ul.social li a i {
+    font-size: 1.5rem;
+}
+.display-4 .h2 {
+    font-size: 60%;
 }
