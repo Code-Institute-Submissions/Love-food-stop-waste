@@ -14,18 +14,18 @@ A live demo can be found [here]()
 ## UX
 ---
 ### This website will appeal to:
+
+
 * **Environmentally conscious citizens**
-    * I want to be able to better understand the way the Earth's resources are currently being used
+    * I want to be able to better understand the way the Earth's resources are currently being used for production and distribution of food.
     * I want to get a better understanding of the food waste problem in order to take action to fight it.
-    * I want to new easy tips and ways of being kinder to the environment and help conserve energy and resources
-    * I want to help develop a sustainable food system
+    * I want to know easy tips on ways of being kinder to the environment, help conserve energy and resources.
 
 * **Concerned consumers**
-    * I want to reduce food waste in my household
-    * I want to save money from buying less food
-    * I want some creative meal or snack recipe ideas 
-    * I want to educate my family about climate change, greenhouse gases and food waste
-    * I want to support my community by donating food
+    * I want to educate my family about climate change, greenhouse gases and food waste.
+    * I want to reduce food waste in my household and save money from buying less food.
+    * I want some creative meal or snack recipe ideas using simple ingredients and leftovers.
+    * I want to receive a newsletter with ideas on how to stop food waste and new recipes that use common leftover foods.
 
 
 ### Wireframes 
@@ -57,7 +57,7 @@ A live demo can be found [here]()
     lnked to the external social media websites, which open in a new tab.
 
 * **Socket**
-    * Socket section is located below the footer and contains copyright symbol and the website address, which changes color to green on hover and is linked to our webpage.
+    * Socket section is located below the footer and contains copyright symbol and the website address, which changes color to green on hover and is linked to the Home page of our website.
 
     
 #### Features specific for the pages
@@ -79,8 +79,8 @@ A live demo can be found [here]()
     * It is followed by a text section and three column card section. The card with a new recipe contains Bootstrap Badge "New" so users can identify new content. 
    
 * **Contact**  
-    * This page contains a "Subscribe for a newsletter" form designrd using Bootstrap's JS Modal plug-in. 
-    There are four fields on the form: First Name, Last Name, Email and Your Message (optional text field).
+    * This page contains a "Subscribe for a newsletter" form designed using Bootstrap's JS Modal plug-in. 
+    There are four fields on the form: First Name, Last Name, Email (required fields) and Your Message (optional text field).
     * The modal has a custom background to make the page more inviting to the users.
 
 
@@ -107,20 +107,82 @@ ___
     * *Gitpod* - used as a development environment and allowed me to add, commit and push files to GitHub.
     * *GitHub* - used as a hosting platform for version control and future collaborations.
 
+
+
+
+
 ## Testing
 ___
+* W3C CSS Validator [Results]()
+* W3C HTML Validator
+    * Home Page [Results]()
+    * Plan Page [Results]()
+    * Leftovers Page [Results]()
+    * Contact Page [Results]()
 
-The 
-
-### Testing User Stories
-* **Environmentally conscious citizens' goals** has achieved the intended outcome 
 
 
+### Testing User Stories from UX section of this file
 
+
+* **Environmentally conscious citizens' goals** 
+    * I want to be able to better understand the way the Earth's resources are currently being used for production and distribution of food.
+        * The information to satisfy the above users' goals is placed in the "Love Food Stop Waste" section of the Home page. 
+        * The Home page is easy to find either by clicking on Home link on the fixed navbar or clicking on the brand logo. 
+        * The clearly labelled call to action button invites users to find out more about this topic from Waste Resouses and Action Programme (WRAP) and opens in a new tab.
+    * I want to get a better understanding of the food waste problem in order to take action to fight it.
+        * "Food Facts" section is on the Home page and is easy to navigate to as descrided above.
+        * More information can be found by clicking our Social links which are placed in the footer on every page of the website and open in new tabs.
+    * I want to know easy tips on ways of being kinder to the environment, help conserve energy and resources.
+        * A clearly labelled "You Can Make a Difference" section is easy to find by scrolling down to the bottom of the Home page.
+    and is continued in the Plan and Leftovers Pages. Users intuitively move through these pages by using the navigation links.
+
+         
+* **Concerned consumers' goals**
+    * I want to educate my family about climate change, greenhouse gases and food waste.
+        * The Home page has an engaging layout and can be found easily by clicking on the Home link in the navbar or brand logo from anywhere on the website.
+        * The sections on the Home page are clearly labelled.
+        * The call to action button invites users to find out more in an external source that opens up in a new tab.
+    * I want to reduce food waste in my household and save money from buying less food.
+        * The Plan page is easy to find through navbar link and has a colorful banner image and clearly labelled sections that can be easily scrolled dowm in order to achieve this goal. 
+    * I want some creative meal or snack recipe ideas using simple ingredients and leftovers.
+        * The Leftovers page is easy to navigate to and has got a clearly labelled information section as well as recipes section.
+    * I want to receive a newsletter with ideas on how to stop food waste and new recipes that use common leftover foods.
+        * A clearly labelled Contact Us page can be easily accessed via navbar links from anywhere on the website.
+        * An easy to fill "Subscribe to a newsletter" modal form allows them to show an interest and receive a newsletter to their inbox.
 
 
 
 ### Further Testing
+
+* **Functionality Testing**
+    * Navigation Bar
+        * The navbar is fixed and stays visible on top of all pages on the website.
+        * When the brand logo is clicked, it takes the users to the Home page from anywhere on the website.
+        * All links on the navbar have been tested and are working as intended.
+        * The navbar collapses into a hamburger menu on screen sizes smaller than 768px. A navigation menu appears when you click on the hamburger icon. 
+        Tests revealed that is working as intended. 
+
+    * Footer
+        * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * All internal links, including the brand logo link and all navbar links and the socket link have been tested and work as intended.
+    * All external links, including the "Find Out More" button on Home Page, as well as Social links on the footer have been 
+tested and work as expected. They open in a new tab using *target="_blank"* attribute. 
+    * The modal form on the Contact Page has also been tested manually. All required fields (First Name, Last Name and Email )
+
 
 
 ### Known Bugs
@@ -131,12 +193,31 @@ The
 ___
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Credits
 ___
 ### Content
 * **Home**
-    * Home page content has been taken from [Love Food Hate Waste](https://lovefoodhatewaste.com/) and [The Waste and Resources Action Programme](https://www.wrap.org.uk/content/we-wont-fix-climate-change-if-we-dont-stop-wasting-food).
-    * Food Facts section content of the page has been taken from [Friends of the Earth](https://friendsoftheearth.uk/food-waste) and modified to suit the needs of the website.
+    * Home page Love Food Stop Waste section content has been taken from [Love Food Hate Waste](https://lovefoodhatewaste.com/) and [The Waste and Resources Action Programme](https://www.wrap.org.uk/content/we-wont-fix-climate-change-if-we-dont-stop-wasting-food).
+    * Food Facts section content has been taken from [Friends of the Earth](https://friendsoftheearth.uk/food-waste) and modified to suit the needs of the website.
+    * Get composting section content has been taken from [The RHS](https://www.rhs.org.uk/advice/profile?PID=444).
 * **Plan and Store**
     * Content for this page has been taken from [Food Standard Agency](https://www.food.gov.uk/food-safety) and [Love Food Hate Waste](https://www.lovefoodhatewaste.com/why-save-food)
 
@@ -171,4 +252,4 @@ and also using some tips from [MDBootstrap](https://mdbootstrap.com/docs/jquery/
 Some modifications were made to fit the purpose of the website.
 * This tutorial by the same author has inspired sections with cards and horizontal rule and media queries [here](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s).  
 * The CSS code snippet `object-fit: cover;` for Home page banner image was kindly provided by my mentor Excellence Ilesanmi.
-* CI README Template and Sample have been helpful in writing the README.md file. 
+* I have also referred to CI Video Tutorials on HTML, CSS and Bootstrap. README samples have been helpful in writing the README.md file. 
