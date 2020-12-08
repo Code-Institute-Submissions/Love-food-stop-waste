@@ -8,48 +8,45 @@ body {
 }
 
 
-/*-------------------------------Navigation------------------------------*/
+/*-- Navigation --*/
 .navbar {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     font-weight: 500;
-    letter-spacing: .1rem;
-    margin-bottom: 2rem;
+    letter-spacing: .08rem;
+}
+.navbar-nav li {
+    padding-right: 0.6rem;
 }
 .navbar-brand img {
     height: 2.7rem;
+    padding-left: 0.6rem;
 }
-.nav-item {
-    padding: 0.5rem;
-}
-.nav-link {
-    color: #5b5555!important;
-}
-.nav-link.active, 
 .nav-link:hover {
     color: #9ecaa4!important;
 }
 
-.nav-toggle-read {
-    color: #009900!important;
-}
 
-
-/*----------------------------- Background Image-------------------------*/
+/*-- Background Image --*/
 
 
 .img-fluid {
     background: no-repeat center center;
     height: 28rem;
     width: 100%;
-    overflow: hidden; 
     object-fit: cover;
+    overflow: hidden; 
+    
 }
 
-/*---------------------------------Jumbotron-----------------------------*/
+/*-- Jumbotrons --*/
 
 .jumbotron {
-    padding: 1rem;
+    padding-right: 0px;
+    padding-left: 0px;
     border-radius: 0;
+    margin: 0 auto;
+    min-width: 100%;
+    overflow: hidden;
 }
 
 .lead {
@@ -62,6 +59,7 @@ body {
     overflow: hidden;
     min-width: 100%;
     height: auto;
+    
 }
 .jumbotron-leftovers {    
     background: url(../../assets/images/leftovers.jpg) no-repeat center center;    
@@ -69,7 +67,10 @@ body {
     overflow: hidden;
     color: white;
     min-width: 100%;
-    height: 400px;
+    height: 24rem;
+    padding-left: 4rem;
+    
+    text-align: left;
 }      
 
 .btn-outline-secondary {
@@ -77,13 +78,12 @@ body {
     text-align: center;
 }
 
-/*-------------------------------Contact form--------------------------------*/
+
+/*-- Contact form --*/
 
 
 .main-section {
-    margin: 0 auto;
-    margin-top: 10rem;
-    margin-bottom: 8rem;
+    margin: 11rem auto;
     padding: 0;
 }
 .modal-content {    
@@ -99,10 +99,12 @@ body {
     min-width: 100%;      
 }
 
+/*-- Info Section--*/
 
+.btn-outline-success {
+    margin: 2rem auto;
 
-/*--------------------------------Info Section----------------------------------*/
-
+}
 .padding {
     padding-bottom: 1.5rem;
 }
@@ -120,7 +122,7 @@ body {
 }
 
 
-/*-------------------------------Food-Facts---------------------------------*/
+/*-- Food-Facts --*/
 
 .fa-drumstick-bite, .fa-pound-sign, .fa-shopping-basket, .fa-burn, .fa-utensils {
     color: white;
@@ -133,7 +135,7 @@ body {
     background-color: #4ab169;
 }
 
-/*------------------------------------Footer-------------------------------*/
+/*-- Footer --*/
 
 footer {
     background-color: #808080; 
@@ -145,7 +147,7 @@ footer a {
 ul.social {
     list-style-type: none;
     display: flex; 
-    max-width: 16rem;   
+    max-width: 60%;   
     margin: 0 auto;
     padding: 0;
 }
@@ -165,7 +167,7 @@ ul.social li a i {
 }
 
 
-/*------------------------------------Socket-------------------------------*/
+/*-- Socket --*/
 
 .socket {
     background-color: #606060;
@@ -178,8 +180,7 @@ ul.social li a i {
     color: #a8c7af;
 }
 
-
-/*----------------------------------Media Queries----------------------------*/
+/*-- Media Queries --*/
 
 @media (max-width: 992px){
 
@@ -194,22 +195,29 @@ ul.social li a i {
 .navbar {
     font-size: 1rem;
     font-weight: 400;
-    letter-spacing: .1rem;
-    margin-bottom: 1rem;
+    letter-spacing: .05rem;
+    margin-bottom: 0.2rem;
     overflow: hidden;
+}
+.navbar-nav li {
+    padding-right: 0.3rem;
 }
 .navbar-brand img {
     height: 2.3rem;
+    padding-left: 0.3rem;
 }
-.nav-item {
-    padding: 0.3rem;
-}
+
 .img-fluid {
     height: 20rem;
 }
 ul.social li a i {
     font-size: 1.5rem;
 }
-.display-4 .h2 {
-    font-size: 60%;
+
+ul.social li a i {
+    font-size: 1.2rem;
+}
+
+.main-section {
+    margin: 7rem auto;
 }

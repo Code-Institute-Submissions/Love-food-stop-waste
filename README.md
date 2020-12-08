@@ -157,14 +157,41 @@ ___
 
 * **Functionality Testing**
     * Navigation Bar
-        * The navbar is fixed and stays visible on top of all pages on the website.
+        * The navbar is fixed and stays visible on top of all pages on the website on all screen sizes.
+        * The navbar is responsive, this have been tested by reducing / increasing the screen width and is working as expected.
         * When the brand logo is clicked, it takes the users to the Home page from anywhere on the website.
-        * All links on the navbar have been tested and are working as intended.
+        * All links on the navbar have been tested by clicking on the links and are working as intended.
         * The navbar collapses into a hamburger menu on screen sizes smaller than 768px. A navigation menu appears when you click on the hamburger icon. 
-        Tests revealed that is working as intended. 
+        Tests revealed that feature is working as intended, as well as all the navigation links. 
 
     * Footer
-        * 
+        * Footer always stays on the bottom of the page and is responsive. This have been tested by reducing / increasing the screen width and is working as intended.
+        * Change of colour and transition effects on hovering over Social icons have been tested and working as intended. 
+        * Click on each Social icon revealed they are working as intended and open up in a new tab.
+
+    * Socket
+        * Socket always stays on the bottom of the page below the footer and is responsive. This have been tested by reducing / increasing the screen width and is working as intended.
+        * Change of colour and transition effects on hovering over the website address have been tested and working as intended. 
+
+    * Call to action button on Home page
+        * Hover over call to action button has been tested and confirmed color change.
+        * Click on call to action button has been tested and it works as intended. A webpage link opens up in a new tab.
+    
+    * Contact form on Contact Us page
+        * The Contact form has been tested by:
+            * Submit the form with one or more empty required fields. This returns an error message requesting to fill in all the requested fields.
+            * Fill in text input into email field. This returns an error that @ sign should be included in the email address. This however doesn't stop users from entering incorrect email address.
+            * Fill in all input fields with valid data and clicking submit button return the form to its initial state. 
+
+
+* **Usability Testing** 
+    * This website was shared with friends and family to test it's usability and identify any issues. 
+    
+
+
+* **Compatibility Testing**
+    * The website was extensively tested across multiple browsers (Chrome, Safari, Microsoft Edge, Fire Fox) and on muliple screen size device simulations 
+    using Chrome Devtools 
 
 
 
@@ -175,16 +202,7 @@ ___
 
 
 
-
-
-
-    * All internal links, including the brand logo link and all navbar links and the socket link have been tested and work as intended.
-    * All external links, including the "Find Out More" button on Home Page, as well as Social links on the footer have been 
-tested and work as expected. They open in a new tab using *target="_blank"* attribute. 
-    * The modal form on the Contact Page has also been tested manually. All required fields (First Name, Last Name and Email )
-
-
-
+   
 ### Known Bugs
 
 
