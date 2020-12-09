@@ -7,9 +7,13 @@
 This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and 
 keep the valuable resources used in food production and distribution from going to waste.
 
+![live demo](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/images/responsive-design.jpg "live demo") 
+
+
+
 ## Demo
 
-A live demo can be found [ :point_right: ](http://ami.responsivedesign.is/?url=https%3A%2F%2F8000-b868a11c-3e70-4649-8ca2-2d8bb56e37c0.ws-eu03.gitpod.io%2Findex.html#) 
+[Live demo :point_left:]()
 
 ## UX
 ---
