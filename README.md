@@ -9,7 +9,7 @@ keep the valuable resources used in food production and distribution from going 
 
 ## Demo
 
-A live demo can be found [here]()
+A live demo can be found [ :point_right: ](http://ami.responsivedesign.is/?url=https%3A%2F%2F8000-b868a11c-3e70-4649-8ca2-2d8bb56e37c0.ws-eu03.gitpod.io%2Findex.html#) 
 
 ## UX
 ---
@@ -86,7 +86,7 @@ A live demo can be found [here]()
 
 ### Features Left to Implement
 
-* To make the website more child-friendly through adding colourful images, fun activities that help to stop food waste and fight climate change and lots of creative recipe ideas for children. 
+* To make the website more child-friendly through adding colourful images, fun activities that help children to understand food waste problem and lots of creative easy leftover recipe ideas for children. 
 * To add a new page "Food Share" with a map and addresses to show the local community food bank locations if users wish to donate food items, 
 as well as using the food bank's services. This will broaden the user pool and strenthen the website's role in the community.
 

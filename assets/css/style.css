@@ -204,7 +204,7 @@ ul.social li a i {
 }
 .navbar-brand img {
     height: 2.3rem;
-    padding-left: 0.3rem;
+    padding-left: 0.2rem;
 }
 
 .img-fluid {
@@ -220,4 +220,5 @@ ul.social li a i {
 
 .main-section {
     margin: 7rem auto;
+}
 }
