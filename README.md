@@ -9,6 +9,8 @@
 ## Demo
 ---
 [Live demo :point_left:](https://nazulka.github.io/Love-food-stop-waste/index.html)
+
+
 [GitHub repository :point_left:]()
 
 
@@ -119,9 +121,10 @@ ___
 ## Testing
 ___
 This website has been tested using:
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-* [W3C HTML Validator](https://validator.w3.org/)
-No errors were found. 
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Pass
+* [W3C HTML Validator](https://validator.w3.org/) - Pass
+
+
 
 
 ### Testing User Stories from UX section of this file
@@ -189,9 +192,17 @@ No errors were found.
     * This website was shared with friends and family to test it's usability and identify any issues. 
     They found the website easy to use, were able to intuitively navigate through the pages and didn't experience any other issues. 
 
+
+* **Performance Testing**
+    * Performance testing was carried out using **Lighthouse** in Chrome Dev Tools.    
+    Following it's recommendations some steps have been carried out:
+        * Images were resized and compressed to improve performance and speed.
+        * `aria-label` was added to the button elements to improve accessibility.
+ 
+
     
 * **Compatibility Testing**
-    * Compatibility and responsivness of the website was extensively tested across multiple browsers (Chrome, Safari, Microsoft Edge, Fire Fox) and on muliple screen size devices 
+    * Compatibility and responsiveness of the website was extensively tested across multiple browsers (Chrome, Safari, Microsoft Edge, Fire Fox) and on muliple screen size devices 
     (iPhone 5, 6, 7, PLus, X, Microsoft Lumia 950; Kindle Fire HDH, iPad, iPad Pro, Samsung Galaxy S5) using Chrome Devtools.
     Initial tests revealed that on all browsers on the first two pages the fixed navbar was scrolling up halfway. It was identified that the overflow of the images below caused this bug. 
     This bug was fixed by adding `col-12` and `px-0` Bootstrap classes to the divs. 
@@ -204,13 +215,18 @@ No errors were found.
 ## Deployment
 ___
 All code for this website was written in Gitpod and then pushed to GitHub to store in the local repository. 
-It was then published using GitHub Pages directly from the *main branch* by following steps below:
+
+
+It was then published using GitHub Pages directly from the *main branch* by following the steps below:
 * Select **Love Food Stop Waste** in *your repositories*
 * Click on **Settings** in the menu bar
-* Scroll down to **GitHub Pages** and select *main branch* in drop-down menu in the **Source** section
+* Scroll down to **GitHub Pages** and select *"main branch"* in drop-down menu in the **Source** section
 * The page will reload and you'll be provided with a link to your published website.
+* To run the code locally by cloning this repository, click on **:arrow_down: Code**. 
+To clone the repository using HTTPS, under **"Clone with HTTPS"** click on :floppy_disk:.
+* To create a personal copy of this repository, click on **Fork** button on the top right corner of the repo page. 
 
-You can 
+
 There is no difference between the deployed version and the development version.
 
 
