@@ -16,6 +16,7 @@ body {
 }
 .navbar-nav li {
     padding-right: 0.6rem;
+    color: #273746;
 }
 .navbar-brand img {
     height: 2.7rem;
