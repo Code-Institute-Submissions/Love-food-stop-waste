@@ -8,7 +8,7 @@
 
 ## Demo
 ---
-[Live demo :point_left:]()
+[Live demo :point_left:](https://nazulka.github.io/Love-food-stop-waste/index.html)
 [GitHub repository :point_left:]()
 
 
