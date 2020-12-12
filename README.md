@@ -74,7 +74,7 @@ keep the valuable resources used in food production and distribution from going 
 * **Home** 
     * Main banner image is intended to be colorful and bright to draw attention.
     * Bootstrap jumbotron with a heading: Love Food Stop Waste, contains main message and call to action "Find Out More" button, if users wish to explore further, 
-    which opens a page for [The Waste and Resources Action Programme (WRAP)](www.wrap.org.uk) in a new tab.
+    which opens a page for [The Waste and Resources Action Programme (WRAP)](https://www.wrap.org.uk/food-drink/citizen-food-waste) in a new tab.
     * Food Facts - Bootstrap jumbotron with a custom colored background and Font Awesome icons to provide visual image and draw users' attention to the 
     information in the section. 
     * Info section followed by three column section, with images to support the text accordingly.
