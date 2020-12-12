@@ -273,8 +273,8 @@ The images used in this website were obtained from free stock images websites [U
 
 ### Acknowledgements
 * Navigation Bar, Footer and Socket for this website were inspired by recommendations from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
-and also by Bootstrap Footer exammples from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. 
-* [This](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s) tutorial has inspired sections with multiple columns (Bootstrap cards).  
+and also by Bootstrap Footer examples from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. 
+* [This](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s) tutorial has inspired sections with multiple columns.  
 * The CSS code line `object-fit: cover;` for Home page banner image was kindly provided to me by my mentor Excellence Ilesanmi.
 * Tutors from Tutor Support have been very helpful in pointing me to the right direction when I encountered the jumping navbar bug (see Testing section). 
 * I have also referred to CI Video Tutorials on HTML, CSS and Bootstrap. 
