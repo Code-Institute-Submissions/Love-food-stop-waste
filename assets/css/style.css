@@ -1,220 +1,253 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 body {
-    overflow-x: hidden;
-    overflow-y: auto;
-    font-family: 'Monserrat', sans-serif;
-    color: #414346;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: 'Monserrat', sans-serif;
+  color: #414346;
 }
 
 
 /*-- Navigation --*/
+
 .navbar {
-    font-size: 1.2rem;
-    font-weight: 500;
-    letter-spacing: .08rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: .08rem;
 }
+
 .navbar-nav li {
-    padding-right: 0.6rem;
-    color: #273746;
+  padding-right: 0.6rem;
+  color: #273746;
 }
+
 .navbar-brand img {
-    height: 2.7rem;
-    padding-left: 0.6rem;
+  height: 2.7rem;
+  padding-left: 0.6rem;
 }
+
 .nav-link:hover {
-    color: #9ecaa4!important;
+  color: #9ecaa4!important;
 }
 
 
 /*-- Background Image --*/
 
-
 .img-fluid {
-    background: no-repeat center center;
-    height: 28rem;
-    width: 100%;
-    object-fit: cover;
-    overflow: hidden;     
+  background: no-repeat center center;
+  height: 28rem;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  overflow: hidden;
 }
+
 
 /*-- Jumbotrons --*/
 
 .jumbotron {
-    padding-right: 0px;
-    padding-left: 0px;
-    border-radius: 0;
-    margin: 0 auto;
-    min-width: 100%;
-    overflow: hidden;
+  padding-right: 0px;
+  padding-left: 0px;
+  border-radius: 0;
+  margin: 0 auto;
+  min-width: 100%;
+  overflow: hidden;
 }
 
 .lead {
-    margin-top: 1.4rem;
+  margin-top: 1.4rem;
 }
 
 .bg-plan {
-    background: url(../../assets/images/citrus.jpg) no-repeat center center;
-    background-size: cover;
-    overflow: hidden;
-    min-width: 100%;
-    height: auto;
+  background: url(../../assets/images/citrus.jpg) no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
+  min-width: 100%;
+  height: auto;
 }
-.jumbotron-leftovers {    
-    background: url(../../assets/images/leftovers.jpg) no-repeat center center;    
-    background-size: cover;
-    overflow: hidden;
-    color: white;
-    min-width: 100%;
-    height: 24rem;
-    padding-left: 4rem;
-    
-    text-align: left;
-}      
+
+.jumbotron-leftovers {
+  background: url(../../assets/images/leftovers.jpg) no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
+  color: white;
+  min-width: 100%;
+  height: 24rem;
+  padding-left: 4rem;
+  text-align: left;
+}
+
 
 .btn-outline-secondary {
-    margin: auto;
-    text-align: center;
+  margin: auto;
+  text-align: center;
 }
 
 
 /*-- Contact form --*/
 
-
 .main-section {
-    margin: 11rem auto;
-    padding: 0;
+  margin: 11rem auto;
+  padding: 0;
 }
-.modal-content {    
-    padding: 0 1rem;
+
+.modal-content {
+  padding: 0 1rem;
 }
+
 .form-group {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
-.contact-background {   
-    background: url(../../assets/images/contact.jpg) no-repeat center center fixed;
-    background-size: cover;
-    height: auto;
-    min-width: 100%;      
+
+.contact-background {
+  background: url(../../assets/images/contact.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: auto;
+  min-width: 100%;
 }
+
 
 /*-- Info Section--*/
 
 .btn-outline-success {
-    margin: 2rem auto;
+  margin: 2rem auto;
 }
+
 .padding {
-    padding-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .info {
-    width: 75%;
-    margin: 0 auto;
-    padding-top: 2rem;
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
 }
+
 .info hr {
-    border-top: 2px solid #9ecaa4;
-    width: 60%;
-    margin-top: .3rem;
-    margin-bottom: 1rem;
+  border-top: 2px solid #9ecaa4;
+  width: 60%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
 }
 
 
 /*-- Food-Facts --*/
 
 .fa-drumstick-bite, .fa-pound-sign, .fa-shopping-basket, .fa-burn, .fa-utensils {
-    color: white;
-    font-size: 3.1rem;
-    margin: 1rem;
+  color: white;
+  font-size: 3.1rem;
+  margin: 1rem;
 }
+
 .bg-custom {
-    color: white;
-    background-color: #4ab169;
+  color: white;
+  background-color: #4ab169;
 }
+
 
 /*-- Footer --*/
 
 footer {
-    background-color: #808080; 
+  background-color: #808080;
 }
+
 footer a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
+
 ul.social {
-    list-style-type: none;
-    display: flex; 
-    max-width: 60%;   
-    margin: 0 auto;
-    padding: 0;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 0;
 }
+
 ul.social li {
-    margin: 0 auto;
+  margin: 0 auto;
 }
+
 ul.social li a i {
-    font-size: 2rem;
-    color: white;
-    transition: all 0.4s ease-out;
-    -moz-transition: all 0.4s ease-out;
-    -webkit-transition: all 0.4s ease-out;
-    -o-transition: all 0.4s ease-out;
+  font-size: 2rem;
+  color: white;
+  transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -webkit-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
 }
+
 .social li a i:hover {
-    color: #a8c7af;
+  color: #a8c7af;
 }
 
 
 /*-- Socket --*/
 
 .socket {
-    background-color: #606060;
-    border-top: 1px solid #9ecaa4;
+  background-color: #606060;
+  border-top: 1px solid #9ecaa4;
 }
+
 .socket p, a {
-    color: white;
+  color: white;
 }
+
 .socket p, a:hover {
-    color: #a8c7af;
+  color: #a8c7af;
 }
+
 
 /*-- Media Queries --*/
 
-@media (max-width: 992px){
+@media (max-width: 1200px) {
 
+  .main-section {
+    margin: 18rem auto;
+  }
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
 
+  .main-section {
+    margin: 13rem auto;
+  }
 }
 
-@media (max-width: 576px){
+@media (max-width: 576px) {
 
-.navbar {
+  .navbar {
     font-size: 1rem;
     font-weight: 400;
     letter-spacing: .05rem;
     margin-bottom: 0.2rem;
     overflow: hidden;
-}
-.navbar-nav li {
+  }
+
+  .navbar-nav li {
     padding-right: 0.3rem;
-}
-.navbar-brand img {
+  }
+
+  .navbar-brand img {
     height: 2.3rem;
     padding-left: 0.2rem;
-}
-.img-fluid {
+  }
+
+  .img-fluid {
     height: 20rem;
-}
-ul.social li a i {
+  }
+
+  ul.social li a i {
     font-size: 1.5rem;
-}
+  }
 
-ul.social li a i {
+  ul.social li a i {
     font-size: 1.2rem;
-}
+  }
 
-.main-section {
-    margin: 7rem auto;
-}
+  .main-section {
+    margin: 6rem auto;
+  }
 }

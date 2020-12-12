@@ -94,7 +94,7 @@ keep the valuable resources used in food production and distribution from going 
     * The modal has a custom background to make the page more inviting to the users.
 
 
-### Features Left to Implement
+### Future Features
 
 * To make this website more useful for families with children a dedicated page for children will be added. It will contain colourful images, easy to understand 
 content, fun activities and lots of creative child-friendly leftover recipe ideas. 
@@ -272,9 +272,9 @@ The images used in this website were obtained from free stock images websites [U
 
 
 ### Acknowledgements
-* Navigation Bar, Footer and Socket for this website were designed through following this video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
-and also using tips from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. Considerable modifications were made to fit the purpose of the website.
-* This tutorial by the same author has inspired sections with cards and horizontal rule [here](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s).  
+* Navigation Bar, Footer and Socket for this website were inspired by recommendations from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
+and also by Bootstrap Footer exammples from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. 
+* [This](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s) tutorial has inspired sections with multiple columns (Bootstrap cards).  
 * The CSS code line `object-fit: cover;` for Home page banner image was kindly provided to me by my mentor Excellence Ilesanmi.
 * Tutor Support have been very helpful in pointing me to the right direction when I encountered the jumping navbar bug (see Testing section). 
 * I have also referred to CI Video Tutorials on HTML, CSS and Bootstrap. 
