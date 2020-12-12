@@ -11,13 +11,13 @@
 [Live demo :point_left:](https://nazulka.github.io/Love-food-stop-waste/index.html)
 
 
-[GitHub repository :point_left:]()
+[GitHub repository :point_left:](https://github.com/Nazulka/Love-food-stop-waste)
 
 
 ---
 ## About 
 ---
-This website aims to raise awareness of the food waste problem and offers some easy steps we can all take at home to save money and 
+This website aims to raise awareness of the global issue of food waste and offers some easy steps we can all take at home to save money and 
 keep the valuable resources used in food production and distribution from going to waste.
 
 
@@ -96,7 +96,8 @@ keep the valuable resources used in food production and distribution from going 
 
 ### Features Left to Implement
 
-* To make the website more child-friendly through adding colourful images, fun activities that help children to understand food waste problem and lots of creative easy leftover recipe ideas for children. 
+* To make this website more useful for families with children a dedicated page for children will be added. It will contain colourful images, easy to understand 
+content, fun activities and lots of creative child-friendly leftover recipe ideas. 
 * To add a new page "Food Share" with a map and addresses to show the local community food bank locations if users wish to donate food items, 
 as well as using the food bank's services. This will broaden the user pool and strenthen the website's role in the community.
 
@@ -193,6 +194,7 @@ This website has been tested using:
     They found the website easy to use, were able to intuitively navigate through the pages and didn't experience any other issues. 
 
 
+
 * **Performance Testing**
     * Performance testing was carried out using **Lighthouse** in Chrome Dev Tools.    
     Following it's recommendations some steps have been carried out:
@@ -249,6 +251,7 @@ ___
         * 5 ways to use leftover bread - [Love Food Hate Waste](https://www.lovefoodhatewaste.com/article/5-ways-use-leftover-bread)
         * Leftover chicken enchiladas also from the website above and can be found [here](https://www.lovefoodhatewaste.com/recipe/leftover-chicken-enchiladas)
 
+
 ### Media
 The images used in this website were obtained from free stock images websites [Unsplash](www.unsplash) and [Pexels](www.pexels.com) and compressed using [TinyPNG](https://tinypng.com).
 
@@ -266,6 +269,7 @@ The images used in this website were obtained from free stock images websites [U
     * Images used in the cards section are by [Vicky Ng](https://unsplash.com/photos/yL9qjDDmmMU) and [Kevin McCutcheon](https://unsplash.com/photos/APDMfLHZiRA).
 
 * Contact page background image [Photo by Ella Olsson from Pexels](https://www.pexels.com/photo/photo-of-vegetable-salad-in-bowls-1640770/)
+
 
 ### Acknowledgements
 * Navigation Bar, Footer and Socket for this website were designed through following these video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
