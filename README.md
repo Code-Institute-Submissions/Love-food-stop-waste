@@ -2,7 +2,7 @@
 
 ---
 
-![responsive image](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/images/responsive-design.jpg "live demo") 
+![responsive image](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/images/responsive-design.jpg "responsive image") 
 
 
 
@@ -46,7 +46,7 @@ keep the valuable resources used in food production and distribution from going 
 * [Mobile View All Pages](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/wireframes/mobile-view.png)
 
 ## Features
-----
+---
 ### Existing Features
 
 #### Features used across all pages
@@ -60,7 +60,7 @@ keep the valuable resources used in food production and distribution from going 
     * All navigation links change color to green on hover and the current page's link stays "active", so the users can easily identify the page they are on.
 
 * **Footer**
-    * Footer has been designed using Bootstrap, it is fixed to the bottom of the page and takes up the whole width of the screen on all devices.
+    * Footer has been designed using Bootstrap, it is located on the bottom of the page and takes up the whole width of the screen on all devices.
     * It contains four social media icons in the center of the footer bar.
     * These icons change color on hover to green to let the users know they are clickable (similar to the links in the navigation bar) and are 
     lnked to the external social media websites, which open in a new tab.
@@ -98,8 +98,8 @@ keep the valuable resources used in food production and distribution from going 
 
 * To make this website more useful for families with children a dedicated page for children will be added. It will contain colourful images, easy to understand 
 content, fun activities and lots of creative child-friendly leftover recipe ideas. 
-* To add a new page "Food Share" with a map and addresses to show the local community food bank locations if users wish to donate food items, 
-as well as using the food bank's services. This will broaden the user pool and strenthen the website's role in the community.
+* A new page "Food Share" will be added. It will contain maps and addresses for community food banks, so the local community members can use their services or donate food items. 
+This will broaden the user pool and strenthen the website's role in the community.
 
 
 ## Technologies Used
@@ -196,7 +196,7 @@ This website has been tested using:
 
 
 * **Performance Testing**
-    * Performance testing was carried out using **Lighthouse** in Chrome Dev Tools.    
+    * Performance testing was carried out using **Lighthouse** in Chrome Developer Tools.    
     Following it's recommendations some steps have been carried out:
         * Images were resized and compressed to improve performance and speed.
         * `aria-label` was added to the button elements to improve accessibility.
@@ -207,7 +207,7 @@ This website has been tested using:
     * Compatibility and responsiveness of the website was extensively tested across multiple browsers (Chrome, Safari, Microsoft Edge, Fire Fox) and on muliple screen size devices 
     (iPhone 5, 6, 7, PLus, X, Microsoft Lumia 950; Kindle Fire HDH, iPad, iPad Pro, Samsung Galaxy S5) using Chrome Devtools.
     Initial tests revealed that on all browsers on the first two pages the fixed navbar was scrolling up halfway. It was identified that the overflow of the images below caused this bug. 
-    This bug was fixed by adding `col-12` and `px-0` Bootstrap classes to the divs. 
+    This bug was fixed by adding `col-12` and `px-0` Bootstrap classes to the divs with images. 
 
 
 ### Known Bugs
@@ -276,6 +276,6 @@ The images used in this website were obtained from free stock images websites [U
 and also by Bootstrap Footer exammples from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. 
 * [This](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s) tutorial has inspired sections with multiple columns (Bootstrap cards).  
 * The CSS code line `object-fit: cover;` for Home page banner image was kindly provided to me by my mentor Excellence Ilesanmi.
-* Tutor Support have been very helpful in pointing me to the right direction when I encountered the jumping navbar bug (see Testing section). 
+* Tutors from Tutor Support have been very helpful in pointing me to the right direction when I encountered the jumping navbar bug (see Testing section). 
 * I have also referred to CI Video Tutorials on HTML, CSS and Bootstrap. 
 * README samples have been helpful in writing the README.md file. 
