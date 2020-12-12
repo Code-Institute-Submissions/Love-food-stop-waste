@@ -2,7 +2,7 @@
 
 ---
 
-![live demo](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/images/responsive-design.jpg "live demo") 
+![responsive image](https://github.com/Nazulka/Love-food-stop-waste/blob/main/assets/images/responsive-design.jpg "live demo") 
 
 
 
@@ -221,7 +221,7 @@ All code for this website was written in Gitpod and then pushed to GitHub to sto
 
 It was then published using GitHub Pages directly from the *main branch* by following the steps below:
 * Select **Love Food Stop Waste** in *your repositories*
-* Click on **Settings** in the menu bar
+* Click on :gear: in the menu bar
 * Scroll down to **GitHub Pages** and select *"main branch"* in drop-down menu in the **Source** section
 * The page will reload and you'll be provided with a link to your published website.
 * To run the code locally by cloning this repository, click on **:arrow_down: Code**. 
@@ -249,7 +249,7 @@ ___
     * Recipes:
         * 5-a-day tagine - [BBC Good Food](https://www.bbcgoodfood.com/recipes/5-day-tagine)
         * 5 ways to use leftover bread - [Love Food Hate Waste](https://www.lovefoodhatewaste.com/article/5-ways-use-leftover-bread)
-        * Leftover chicken enchiladas also from the website above and can be found [here](https://www.lovefoodhatewaste.com/recipe/leftover-chicken-enchiladas)
+        * Leftover chicken enchiladas recipe is also from the website above and can be found [here](https://www.lovefoodhatewaste.com/recipe/leftover-chicken-enchiladas)
 
 
 ### Media
@@ -272,10 +272,10 @@ The images used in this website were obtained from free stock images websites [U
 
 
 ### Acknowledgements
-* Navigation Bar, Footer and Socket for this website were designed through following these video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
+* Navigation Bar, Footer and Socket for this website were designed through following this video tutorial [by Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=773s) 
 and also using tips from [MDBootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) website. Considerable modifications were made to fit the purpose of the website.
-* This tutorial by the same author has inspired sections with cards and horizontal rule and media queries [here](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s).  
-* The CSS code line `object-fit: cover;` for Home page banner image was kindly provided by my mentor Excellence Ilesanmi.
-* Tutor Support have been very helpful in pointing me to the right direction when I encountered the bug with the jumping navbar (as described in Testing section). 
+* This tutorial by the same author has inspired sections with cards and horizontal rule [here](https://www.youtube.com/watch?v=TJF4ldO91n4&t=137s).  
+* The CSS code line `object-fit: cover;` for Home page banner image was kindly provided to me by my mentor Excellence Ilesanmi.
+* Tutor Support have been very helpful in pointing me to the right direction when I encountered the jumping navbar bug (see Testing section). 
 * I have also referred to CI Video Tutorials on HTML, CSS and Bootstrap. 
 * README samples have been helpful in writing the README.md file. 
